@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url("./assets/fonts/IRANSansWeb.ttf") format("ttf"),
+    url("./assets/fonts/IRANSansWeb.woff") format("woff"),
+    url("./assets/fonts/IRANSansWeb.ttf") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "IRANSansWebFaNum";
+  src: url("./assets/fonts/IRANSansWeb(FaNum).eot") format("eot"),
+    url("./assets/fonts/IRANSansWeb(FaNum).ttf") format("ttf"),
+    url("./assets/fonts/IRANSansWeb(FaNum).woff") format("woff"),
+    url("./assets/fonts/IRANSansWeb(FaNum).ttf") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Shabnam";
+  src: url("./assets/fonts/Shabnam.eot") format("eot"),
+    url("./assets/fonts/Shabnam.woff") format("woff"),
+    url("./assets/fonts/Shabnam.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ShabnamFaNum";
+  src: url("./assets/fonts/Shabnam-Medium-FD.eot") format("eot"),
+    url("./assets/fonts/Shabnam-Medium-FD.woff") format("woff"),
+    url("./assets/fonts/Shabnam-Medium-FD.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* مربوط به تکست فیلدها */
+legend {
+  max-width: 0px !important;
+}
